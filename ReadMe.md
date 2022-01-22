@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=craziks-creator&label=Profile%20views&color=0e75b6&style=flat" alt="craziks-creator" /> </p>
-<img SRC="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+<img SRC="
+<p align="center"> <a href="https://t.me/+UnEGbR1HtzzUBKL4" <img src="https://img.shields.io/badge/@PHPChatCo-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram)</a></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=craziks-creator&" alt="craziks-creator" /></p>
 
