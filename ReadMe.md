@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm craziks-creator</h1>
 <h3 align="center">A passionate frontend/backend developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=craziks-creator&label=Profile%20views&color=0e75b6&style=flat" alt="craziks-creator" /><a href="https://t.me/+UnEGbR1HtzzUBKL4"> <img src="https://img.shields.io/badge/@P-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram"></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=craziks-creator&label=Profile%20views&color=0e75b6&style=flat" alt="craziks-creator" /><a href="https://t.me/+UnEGbR1HtzzUBKL4"> <img src="https://img.shields.io/badge/contact me-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram"></a> </p>
 
  <p></p>
 
