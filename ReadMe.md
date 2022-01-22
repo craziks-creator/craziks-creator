@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craziks-creator&label=Profile%20views&color=0e75b6&style=flat" alt="craziks-creator" /> </p>
 
-
+[![Chat on Telegram][https://img.shields.io/badge/@PHPChatCo-2CA5E0.svg?style=flat-square&logo=telegram&label=Telegram]][https://t.me/+UnEGbR1HtzzUBKL4]
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=craziks-creator" alt="craziks-creator" /></a> </p>
 
 - 🔭 I’m currently working on **Python telegram bots**
